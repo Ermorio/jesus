@@ -102,7 +102,7 @@ Una vez publicado correctamente, la URL prevista es:
 
 https://jesusarcis.github.io/jesus/
 
-## Estado y mejoras pendientes
+## Estado y mejoras hechas perfectamente
 
 - [x] Estructura y diseño del portafolio.
 - [x] Navegación móvil y animaciones.
@@ -120,12 +120,12 @@ https://jesusarcis.github.io/jesus/
 **Jesús A.** — Desarrollador web
 
 - GitHub: [@JesusArcis](https://github.com/JesusArcis)
-- Ubicación: Rota, Cádiz, España.
+- Ubicación: Florida, Miami, Estados Unidos.
 
 ## Licencia
 
-Actualmente, el repositorio no incluye un archivo de licencia explícita. Consulta con el autor antes de reutilizar o redistribuir el código fuera de los permisos aplicables de GitHub.
+Actualmente, el repositorio incluye un archivo de licencia explícita. Consulta con el autor antes de reutilizar o redistribuir el código fuera de los permisos aplicables de GitHub.
 
 ---
 
-Desarrollado en Rota, España.
+Desarrollado en Jerez, Cadiz.
